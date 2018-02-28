@@ -1,0 +1,14 @@
+{{!Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See LICENSE file in the project root for full license information.}}
+
+<footer>
+  <div class="grad-bottom"></div>
+  <div class="footer">
+    <div class="container">
+      <span class="pull-right">
+        <a href="#top">Para o topo</a>
+      </span>
+      {{{_appFooter}}}
+      {{^_appFooter}}<span>Desde 2001 a servir o ensino na RAM</span>{{/_appFooter}}
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,49 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "Place21/**.md",
+          "PlaceMiudos/**.md",
+          //"PlaceMiudos/toc.yml",
+          "toc.yml",
+          "*.md"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "_appTitle": "Docs Plataforma PLACE",
+      "_enableSearch": true,
+      "_appLogoPath": "/images/global/logop21.png",
+      "_appFaviconPath": "/images/global/favicon.png",
+      "_gitUrlPattern": "https://github.com/PlataformaPlace/PlaceDocs/tree/master/docs",
+      "_disableContribution": false
+      //"breadcrumb_path": "/Docs/toc.json",
+      //"_navPath": "/",
+      //"_navRel": "/",
+      //"searchScope": [ "Place21" ]
+    },
+    "fileMetadata": {},
+    "template": [
+      "default", "C:/Dev/GitHub/PlaceDocs/PlaceDocs/Template"
+    ],
+    "dest": "_site"
+  }
+}

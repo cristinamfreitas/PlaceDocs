@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38504C87-FDC0-4539-999F-BC01DC43F1CA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlaceDocFx</RootNamespace>
+    <AssemblyName>PlaceDocFx</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="demo.md" />
+    <None Include="packages.config" />
+    <None Include="Place21\batata.md" />
+    <None Include="PlaceMiudos\toc.yml.OLD" />
+    <None Include="Template\bower.json" />
+    <None Include="Template\conceptual.html.primary.tmpl" />
+    <None Include="Template\layout\_master.tmpl" />
+    <None Include="Template\ManagedReference.html.primary.tmpl" />
+    <None Include="Template\package.json" />
+    <None Include="Template\partials\affix.tmpl.partial" />
+    <None Include="Template\partials\breadcrumb.tmpl.partial" />
+    <None Include="Template\partials\class.header.tmpl.partial" />
+    <None Include="Template\partials\class.tmpl.partial" />
+    <None Include="Template\partials\customMREFContent.tmpl.partial" />
+    <None Include="Template\partials\enum.tmpl.partial" />
+    <None Include="Template\partials\footer.tmpl.partial" />
+    <None Include="Template\partials\head.tmpl.partial" />
+    <None Include="Template\partials\li.tmpl.partial" />
+    <None Include="Template\partials\logo.tmpl.partial" />
+    <None Include="Template\partials\namespace.tmpl.partial" />
+    <None Include="Template\partials\navbar.tmpl.partial" />
+    <None Include="Template\partials\rest.child.tmpl.partial" />
+    <None Include="Template\partials\rest.tmpl.partial" />
+    <None Include="Template\partials\scripts.tmpl.partial" />
+    <None Include="Template\partials\searchResults.tmpl.partial" />
+    <None Include="Template\partials\title.tmpl.partial" />
+    <None Include="Template\partials\toc.tmpl.partial" />
+    <None Include="Template\partials\uref\class.header.tmpl.partial" />
+    <None Include="Template\partials\uref\class.tmpl.partial" />
+    <None Include="Template\partials\uref\parameters.tmpl.partial" />
+    <None Include="Template\partials\_affix.liquid" />
+    <None Include="Template\partials\_breadcrumb.liquid" />
+    <None Include="Template\partials\_footer.liquid" />
+    <None Include="Template\partials\_head.liquid" />
+    <None Include="Template\partials\_logo.liquid" />
+    <None Include="Template\partials\_navbar.liquid" />
+    <None Include="Template\partials\_scripts.liquid" />
+    <None Include="Template\partials\_toc.liquid" />
+    <None Include="Template\RestApi.html.primary.tmpl" />
+    <None Include="Template\search-stopwords.json" />
+    <None Include="Template\toc.html.tmpl" />
+    <None Include="Template\token.json" />
+    <None Include="Template\UniversalReference.html.primary.tmpl" />
+    <None Include="Place21\index.md" />
+    <None Include="Place21\toc.md" />
+    <None Include="PlaceMiudos\index.md" />
+    <None Include="PlaceMiudos\Professores\funcao.md" />
+    <None Include="PlaceMiudos\Professores\intro.md" />
+    <None Include="PlaceMiudos\toc.md" />
+    <None Include="docfx.json" />
+    <None Include="index.md" />
+    <None Include="toc.yml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PlaceMiudos\Professores\horario.md" />
+    <Content Include="images\global\logop21.png" />
+    <Content Include="images\global\logopm.png" />
+    <Content Include="Template\conceptual.extension.js" />
+    <Content Include="Template\conceptual.html.primary.js" />
+    <Content Include="Template\favicon.ico" />
+    <Content Include="Template\gulpfile.js" />
+    <Content Include="Template\logo.svg" />
+    <Content Include="Template\ManagedReference.extension.js" />
+    <Content Include="Template\ManagedReference.html.primary.js" />
+    <Content Include="Template\RestApi.extension.js" />
+    <Content Include="Template\RestApi.html.primary.js" />
+    <Content Include="Template\styles\docfx.css" />
+    <Content Include="Template\styles\docfx.js" />
+    <Content Include="Template\styles\main.css" />
+    <Content Include="Template\styles\main.js" />
+    <Content Include="Template\styles\search-worker.js" />
+    <Content Include="Template\toc.extension.js" />
+    <Content Include="Template\toc.html.js" />
+    <Content Include="Template\UniversalReference.html.primary.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\docfx.console.2.32.0\build\docfx.console.targets" Condition="Exists('..\packages\docfx.console.2.32.0\build\docfx.console.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\docfx.console.2.32.0\build\docfx.console.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\docfx.console.2.32.0\build\docfx.console.targets'))" />
+  </Target>
+</Project>
