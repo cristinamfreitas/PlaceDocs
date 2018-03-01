@@ -40,8 +40,22 @@ alt="Crazy frog!!" width="480" height="360" border="10" /></a>
 - [x] 
 - [ ] Olá 
 
-> [!WARNING]  
+> [!NOTE]  
 > Teste de uma nota.
+
+> [!WARNING]  
+> Teste de um aviso.
+
+> [!TIP]  
+> Teste de uma dica.
+
+> [!IMPORTANT]  
+> Teste de um destaque importante.
+
+> [!CAUTION]  
+> Teste de um aviso.
+
+
 
  ![Logopm](../images/global/logopm.png)
 <!--Olá novamente-->

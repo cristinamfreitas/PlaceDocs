@@ -33,7 +33,7 @@
       "_enableSearch": true,
       "_appLogoPath": "/images/global/logop21.png",
       "_appFaviconPath": "/images/global/favicon.png",
-      "_gitUrlPattern": "https://github.com/PlataformaPlace/PlaceDocs/tree/master/docs",
+      "_gitUrlPattern": "https://github.com/PlataformaPlace/PlaceDocs/tree/master",
       "_disableContribution": false
       //"breadcrumb_path": "/Docs/toc.json",
       //"_navPath": "/",
