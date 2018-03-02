@@ -12,6 +12,45 @@
 
 ---
 
+Inscriçoes antes dos **cinco meses de idade**, deve *pedir autorização à DRE*.
+
+
+```
+Inscriçoes antes dos cinco meses de idade, deve pedir autorização à DRE.
+
+```
+
+Inscriçoes antes dos cinco meses de idade, deve pedir autorização à DRE. ([portaria 55/2018](https://github.com/dashboard))
+
+- ponto 1
+- efe
+- efef
+
+> [!NOTE]  
+> Teste de uma nota.
+
+> [!WARNING]  
+> Teste de uma aviso.
+
+> [!TIP]  
+> Teste de uma nota.
+
+> [!WARNING]  
+> Teste de uma nota.
+
+> [!WARNING]  
+> Teste de uma nota.
+
+> [!WARNING]  
+> Teste de uma nota.
+
+
+
+- [x] Ponto 1
+- [ ] Ponto 2
+- [ ] Ponto 3
+
+
 Tabela
 
 | Tables          | Are              | Cool  |
@@ -19,6 +58,8 @@ Tabela
 | col 3 está      | alinhado direita | 1600€ |
 | col 2 está      | centrada         |   12€ |
 | linhas zebra    | são giras        |    1€ |
+
+![Scary Mask 512](images/Place21/Alunos/scary_mask-512.png)
 
 ---
 Linha separadora

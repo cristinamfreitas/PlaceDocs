@@ -48,7 +48,20 @@
   <ItemGroup>
     <None Include="demo.md" />
     <None Include="packages.config" />
-    <None Include="Place21\batata.md" />
+    <None Include="Place21\Alunos\index.md" />
+    <None Include="Place21\Alunos\matrícula.md" />
+    <None Include="Place21\Alunos\mudancacurso.md" />
+    <None Include="Place21\Docentes\Horários.md" />
+    <None Include="Place21\Docentes\index.md" />
+    <None Include="Place21\Escola\exportacoesdedados.md" />
+    <None Include="Place21\Escola\Importacoesdedados.md" />
+    <None Include="Place21\Escola\Interrupcoesletivas.md" />
+    <None Include="Place21\Escola\Recursos da escola.md" />
+    <None Include="PlaceMiudos\Alunos\Acaosocial.md" />
+    <None Include="PlaceMiudos\Alunos\index.md" />
+    <None Include="PlaceMiudos\Alunos\inscricoes.md" />
+    <None Include="PlaceMiudos\Alunos\transferencias.md" />
+    <None Include="PlaceMiudos\Alunos\turmas.md" />
     <None Include="PlaceMiudos\toc.yml.OLD" />
     <None Include="Template\bower.json" />
     <None Include="Template\conceptual.html.primary.tmpl" />
@@ -92,17 +105,20 @@
     <None Include="Place21\index.md" />
     <None Include="Place21\toc.md" />
     <None Include="PlaceMiudos\index.md" />
-    <None Include="PlaceMiudos\Professores\funcao.md" />
-    <None Include="PlaceMiudos\Professores\intro.md" />
+    <None Include="PlaceMiudos\Docentes\funcao.md" />
+    <None Include="PlaceMiudos\Docentes\intro.md" />
     <None Include="PlaceMiudos\toc.md" />
     <None Include="docfx.json" />
     <None Include="index.md" />
     <None Include="toc.yml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="PlaceMiudos\Professores\horario.md" />
+    <None Include="PlaceMiudos\Docentes\horario.md" />
     <Content Include="images\global\logop21.png" />
     <Content Include="images\global\logopm.png" />
+    <Content Include="images\Place21\Alunos\scary_mask-512.png" />
+    <Content Include="images\PlaceMiudos\Alunos\Itemdepagamento.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\placemiudos.PNG" />
     <Content Include="Template\conceptual.extension.js" />
     <Content Include="Template\conceptual.html.primary.js" />
     <Content Include="Template\favicon.ico" />
@@ -120,6 +136,9 @@
     <Content Include="Template\toc.extension.js" />
     <Content Include="Template\toc.html.js" />
     <Content Include="Template\UniversalReference.html.primary.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PlaceMiudos\Escola\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\docfx.console.2.32.0\build\docfx.console.targets" Condition="Exists('..\packages\docfx.console.2.32.0\build\docfx.console.targets')" />
