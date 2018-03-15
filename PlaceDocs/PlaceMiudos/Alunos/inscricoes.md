@@ -14,3 +14,13 @@ Para fazer inscrições de crianças com idades inferiores a cinco meses de idad
 
 
 
+As inscrições nas escolas públicas são efetuadas no seguinte período:
+
+|Inscrições  |   Início de Julho   |
+|:--------------- |:----------------:|
+|  **Lista provisória**  | A definir data |
+|    **Reclamações**    | 5 dias úteis |
+|   **Lista definitiva**  |   A definir data |
+
+> [!WARNING]  
+> A escolha é livre, sendo a colocação apenas limitada pela capacidade da escola desejada.

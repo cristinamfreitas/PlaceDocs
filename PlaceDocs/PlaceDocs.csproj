@@ -48,20 +48,32 @@
   <ItemGroup>
     <None Include="demo.md" />
     <None Include="packages.config" />
+    <None Include="Place21\Alunos\faltas.md" />
     <None Include="Place21\Alunos\index.md" />
-    <None Include="Place21\Alunos\matrícula.md" />
+    <None Include="Place21\Alunos\matricula.md" />
     <None Include="Place21\Alunos\mudancacurso.md" />
-    <None Include="Place21\Docentes\Horários.md" />
+    <None Include="Place21\Alunos\Renovacoes.md" />
+    <None Include="Place21\Docentes\Faltas.md" />
+    <None Include="Place21\Docentes\Horarios.md" />
     <None Include="Place21\Docentes\index.md" />
+    <None Include="Place21\Docentes\sumarios.md" />
     <None Include="Place21\Escola\exportacoesdedados.md" />
     <None Include="Place21\Escola\Importacoesdedados.md" />
+    <None Include="Place21\Escola\index.md" />
     <None Include="Place21\Escola\Interrupcoesletivas.md" />
-    <None Include="Place21\Escola\Recursos da escola.md" />
+    <None Include="Place21\Escola\Recursosdaescola.md" />
     <None Include="PlaceMiudos\Alunos\Acaosocial.md" />
     <None Include="PlaceMiudos\Alunos\index.md" />
     <None Include="PlaceMiudos\Alunos\inscricoes.md" />
+    <None Include="PlaceMiudos\Alunos\Renovacoes.md" />
     <None Include="PlaceMiudos\Alunos\transferencias.md" />
     <None Include="PlaceMiudos\Alunos\turmas.md" />
+    <None Include="PlaceMiudos\Docentes\Sumarios.md" />
+    <None Include="PlaceMiudos\Escola\Exportacoes.md" />
+    <None Include="PlaceMiudos\Escola\index.md" />
+    <None Include="PlaceMiudos\Escola\interrupcoesletivas.md" />
+    <None Include="PlaceMiudos\Escola\Recursosdaescola.md" />
+    <None Include="PlaceMiudos\Escola\Relatorios.md" />
     <None Include="PlaceMiudos\toc.yml.OLD" />
     <None Include="Template\bower.json" />
     <None Include="Template\conceptual.html.primary.tmpl" />
@@ -105,8 +117,7 @@
     <None Include="Place21\index.md" />
     <None Include="Place21\toc.md" />
     <None Include="PlaceMiudos\index.md" />
-    <None Include="PlaceMiudos\Docentes\funcao.md" />
-    <None Include="PlaceMiudos\Docentes\intro.md" />
+    <None Include="PlaceMiudos\Docentes\index.md" />
     <None Include="PlaceMiudos\toc.md" />
     <None Include="docfx.json" />
     <None Include="index.md" />
@@ -116,9 +127,38 @@
     <None Include="PlaceMiudos\Docentes\horario.md" />
     <Content Include="images\global\logop21.png" />
     <Content Include="images\global\logopm.png" />
+    <Content Include="images\Place21\Alunos\consulta.PNG" />
+    <Content Include="images\Place21\Alunos\dadosdaescola.PNG" />
+    <Content Include="images\Place21\Alunos\desconsiderarfaltas.PNG" />
+    <Content Include="images\Place21\Alunos\Exportacoesalunos.PNG" />
+    <Content Include="images\Place21\Alunos\exportacoesprof.PNG" />
+    <Content Include="images\Place21\Alunos\exportações.PNG" />
+    <Content Include="images\Place21\Alunos\faltas.PNG" />
+    <Content Include="images\Place21\Alunos\faltasdocentes.PNG" />
+    <Content Include="images\Place21\Alunos\ficheirosnotas.PNG" />
+    <Content Include="images\Place21\Alunos\Gerarocorrencias.PNG" />
+    <Content Include="images\Place21\Alunos\horario.PNG" />
+    <Content Include="images\Place21\Alunos\importacaonotas.PNG" />
+    <Content Include="images\Place21\Alunos\importacaorb.PNG" />
+    <Content Include="images\Place21\Alunos\matricula21.PNG" />
+    <Content Include="images\Place21\Alunos\menu.PNG" />
+    <Content Include="images\Place21\Alunos\mudardecurso.PNG" />
+    <Content Include="images\Place21\Alunos\mudardecursof.PNG" />
+    <Content Include="images\Place21\Alunos\place21.PNG" />
     <Content Include="images\Place21\Alunos\scary_mask-512.png" />
+    <Content Include="images\Place21\Alunos\sumarios.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\cargos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\Horariosdocentes.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\inqueritos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\interrupcoes.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\Itemdepagamento.PNG" />
     <Content Include="images\PlaceMiudos\Alunos\placemiudos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\presencas.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\recursoscompletos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\recursosmiudos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\relatorios.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\sumariosmiudos.PNG" />
+    <Content Include="images\PlaceMiudos\Alunos\exportacoes.PNG" />
     <Content Include="Template\conceptual.extension.js" />
     <Content Include="Template\conceptual.html.primary.js" />
     <Content Include="Template\favicon.ico" />
@@ -137,9 +177,7 @@
     <Content Include="Template\toc.html.js" />
     <Content Include="Template\UniversalReference.html.primary.js" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="PlaceMiudos\Escola\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\docfx.console.2.32.0\build\docfx.console.targets" Condition="Exists('..\packages\docfx.console.2.32.0\build\docfx.console.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

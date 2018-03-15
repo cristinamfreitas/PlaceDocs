@@ -13,3 +13,38 @@ A plataforma PLACE consiste numa diversidade de serviços e recursos destinados 
 ## Objetivo da aplicação
 
 Ajudar as escolas, fornecendo informações úteis para gestão correta das informações contidas no PLACE e promover uma partilha de informação entre os intervenientes no processo educativo na RAM
+
+Neste separador iremos abordar três temas fundamentais:
+
+•  **Escola**:
+
+  - Recursos da Escola
+
+  - Interrupçoes Letivas
+
+  - Relatórios
+
+  - Exportações
+
+
+
+• **Docentes**
+
+  - Horários
+
+  - Sumários 
+
+
+
+•  **Alunos**
+
+  - Inscrições
+
+  - Turmas
+
+  - Transferências
+
+  - Ação Social
+
+
+Em cada um dos itens, vamos especificá-los de acordo com as necessidades mais sentidas por parte dos utilizadores.
