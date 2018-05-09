@@ -23,4 +23,9 @@ No que concerne ENEB/ENES/PAEB poderá explorar as seguintes funcionalidades:
 
 ![Ficheirosnotas](../../images/Place21/Alunos/ficheirosnotas.PNG)
 
-É importante referir que o ficheiro **PAEB** refere-se ao 5º e 8º ano, o ficheiro **ENEB** destina-se aos alunos do 9º ano e o ficheiro **ENES** é direcionado para os alunos do secundário. 
+ - **PAEB**: refere-se ao 5º e 8º ano
+ 
+ - **ENEB** destina-se aos alunos do 9º ano 
+ 
+ - **ENES** é direcionado para os alunos do secundário. 
+

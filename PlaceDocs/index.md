@@ -13,7 +13,7 @@ A Plataforma tem como objetivo facilitar a gestão escolar e promover a partilha
 
 ## Objetivo da Aplicação 
 
-A equipa Place sentiu necessidade de criar uma aplicação prática, de forma a melhorar a resposta dada às escolas e seus utilizadores. Esta aplicação funcionará como um sistema de FAQ ( Perguntas Mais Frequentes), com o intuito de ajudar toda a comunidade educativa. Acreditamos que esta ferramenta seja uma grande ajuda pois, desse modo, uma parte substancial dos utilizadores conseguam encontrar as respostas para as suas perguntas sem a necessidade de contactar a plataforma, o que por si só já é capaz de descongestionar as linhas de atendimento e torná-las mais rápidas e eficazes.
+A equipa Place sentiu necessidade de criar uma aplicação prática, de forma a melhorar a resposta dada às escolas e seus utilizadores. Esta aplicação funcionará como um sistema de FAQ ( Perguntas Mais Frequentes), com o intuito de ajudar toda a comunidade educativa. Acreditamos que esta ferramenta seja uma grande ajuda pois, desse modo, uma parte substancial dos utilizadores conseguam encontrar as respostas para as suas perguntas sem a necessidade de contatar a plataforma. 
  
 Importa salientar que esta aplicação estará dividida em duas partes, nomeadamente:
 
@@ -34,7 +34,7 @@ Esta divisão justifica-se pelo fato de haver conteúdos distintos em amplas as 
  
 
 > [!WARNING]  
-> Qualquer tratamento de dados pessoais requer o consentimento do titular. Os consentimentos já existentes, mas que não cumpram com regulamento, deve fazer novo consentimento. 
+> Qualquer tratamento de dados pessoais requer o consentimento do titular. Os consentimentos já existentes, mas que não cumpram com regulamento (Lei Europeia da Proteção de Dados 2018), deve fazer novo consentimento. 
 
 
 

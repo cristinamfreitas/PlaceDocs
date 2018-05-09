@@ -16,7 +16,10 @@ Só a direção pode justificar a falta, mediante a justificação do docente.
 
 
 > [!WARNING]  
-> Existe uma falta designada como **Serviço Externo** (SE) que deve ser marcada quando o professor está a trabalhar fora da escola e não comparece a uma determinada aula ou aulas. Aplica-se por exemplo: Desporto Escolar ou Visitas de Estudo.  
+> Existe uma falta designada como **Serviço Externo** (SE) que deve ser marcada quando o professor está a trabalhar fora da escola e não comparece a uma determinada aula ou atividade obrigatória. Aplica-se por exemplo: **Desporto Escolar ou Visitas de Estudo**.
 
 
-As escolas com cursos financiados, as faltas dos docentes têm outro valor. Há somatório de horas dadas, horas por lecionar e um confronto com as horas totoais previstas no início do curso.
+
+> [!NOTE]  
+> As escolas com cursos financiados, as faltas dos docentes têm outro valor. Há somatório de horas dadas, horas por lecionar e um confronto com as horas totais previstas no início do curso.
+

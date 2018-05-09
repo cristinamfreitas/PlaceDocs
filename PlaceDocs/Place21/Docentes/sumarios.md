@@ -11,7 +11,7 @@ Caso o prazo não seja respeitado, o sumário é fechado e só a direção da es
 Preenche o sumário, escolhendo a disciplina, horário e turma. Na mesma página fará a marcação de presenças dos alunos.
 
 
-No caso de substituições, o sumário é feito feito pelo docente que deu a aula, mas o professor que faltou consegue visualizar o respetivo sumário. 
+No caso de substituições, o sumário é feito pelo docente que deu a aula, mas o professor que faltou consegue visualizar o respetivo sumário. 
 
 
 > [!WARNING]  

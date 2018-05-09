@@ -4,7 +4,7 @@ Na página principal da escola, no lado direito tem um botão menu.
 
 ![Menu](../../images/Place21/Alunos/menu.PNG)
 
-Ao clicar neste funcionalidade, aparece várias funcionalidades relacionadas com a escola, Nomeadamente: 
+Ao clicar neste funcionalidade, aparece várias funcionalidades relacionadas com a escola, nomeadamente: 
 
 - Dados da Escola
 - Recusos Humanos
@@ -15,7 +15,7 @@ Ao clicar neste funcionalidade, aparece várias funcionalidades relacionadas com
 
 Todos estes itens devem ser preenchidos e sempre que possível, atualizados.
 
-Dando especial atenção aos dados da escola, este separador deve conter informações sempre atualizados.
+Dando especial atenção aos **dados da escola**, este separador deve conter informações sempre atualizados.
 
  ![Dadosdaescola](../../images/Place21/Alunos/dadosdaescola.PNG)
 

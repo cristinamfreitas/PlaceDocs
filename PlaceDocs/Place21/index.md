@@ -11,10 +11,12 @@ A plataforma PLACE consiste numa diversidade de serviços e recursos destinados 
 
 Ajudar as escolas, fornecendo informações úteis para gestão correta das informações contidas no PLACE e promover uma partilha de informação entre os intervenientes no processo educativo na RAM. 
 
-Neste separador iremos abordar três temas fundamentais:
+Neste separador iremos abordar quatro temas fundamentais:
 
 - **Escola:**
 
+  - Oferta Formativa
+  
   - Recursos da Escola
 
   - Exportações da Dados
@@ -29,12 +31,24 @@ Neste separador iremos abordar três temas fundamentais:
 
   - Sumários 
 
+  - Faltas
+
 - **Alunos**
 
+  - Pré- Inscrições (9º ano)
+
+  - Oferta Formativa
+  
   - Matrículas
+  
+  - Renovações
 
   - Mudança de Curso
 
   - Faltas
+
+- **Encarregados de Educação**
+
+
 
 Em cada um dos itens, vamos especificá-los de acordo com as necessidades mais sentidas por parte dos utilizadores. 

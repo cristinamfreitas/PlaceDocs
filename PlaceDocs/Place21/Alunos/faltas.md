@@ -24,7 +24,7 @@ As faltas são marcadas **pelo docente** no momento que faz o sumário. O docent
 |Responsáveis     | Marcação de faltas           | Observações  |
 | :---------------: |:----------------:| :-----:|
 | **Professor da Disciplina**    | da disciplina| Professor marca *Falta Injustificada* na ausência do aluno |
-| **Diretor de turma**  | Pode: Marcar falta, Justificar e/ou Remover      |   Só o diretor de turma pode mofificar as faltas. Ex: falta Injustificado, o D.T. pode justificar mediante a justificação. |
+| **Diretor de turma**  | Pode: Marcar falta, Justificar e/ou Remover      |   Só o diretor de turma pode modificar as faltas. Ex: falta Injustificado, o D.T. pode justificar mediante a justificação. |
 | **Direção Executiva ou Serviços Administrativos**   | Pode abrir durante 15 a alteração de faltas noutro período.      |    Depois de abrir, pode fechar,mas caso não feche, a aplicação fecha automaticamente após 15 dias. |
 
 
