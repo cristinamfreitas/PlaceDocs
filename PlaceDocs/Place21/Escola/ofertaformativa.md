@@ -2,7 +2,7 @@
 
 ![Ofertaformativa](../../images/Place21/Alunos/ofertaformativa.PNG)
 
-A plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretedem oferecer, os ciclos que pretende exercer, o número estimado de alunos matrículados e o número de turmas que pretende ter em cada tipo de curso. 
+A Plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretedem oferecer, os ciclos que pretende exercer, o número estimado de alunos matrículados e o número de turmas que pretende ter em cada tipo de curso. 
 
 Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de Maio** de 2018 respeitosamente.  
 
@@ -49,7 +49,7 @@ Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação d
 
 
 > [!WARNING]  
-> Sempre que haja um **curso novo**, as escolas devem *Criar*  um novo Curso e não editar o Curso antigo. Ou seja, Mesmo que o Curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente** deve criar um novo curso.
+> Sempre que haja um **curso novo**, as escolas devem *Criar*  um novo curso e não editar o curso antigo. Ou seja, mesmo que o curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente** deve criar um novo curso.
 
 
 > [!NOTE]  
@@ -60,7 +60,7 @@ Para poder finalizar este processo com sucesso é importante inserir as respetiv
 ![Alunoseturmas](../../images/Place21/Alunos/alunoseturmas.PNG)
 
 
-Neste separador é importante ter em atenção a criação dos cursos: Devem apenas intoduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a lei que esteja em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
+Neste separador é importante ter em atenção a criação dos cursos: devem apenas intoduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a lei que esteja em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
  
 
 

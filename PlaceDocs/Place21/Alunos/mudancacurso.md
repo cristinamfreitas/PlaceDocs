@@ -2,7 +2,7 @@
 
 Após a matrícula dos alunos, no início do ano ou mesmo no decorrer do mesmo, se o aluno mostrar interesse em mudar de curso é possovel. 
 
-para tal a Escola deve seguir os seguintes passos: 
+Para tal, a escola deve seguir os seguintes passos: 
 
 - Ir ao **aluno**
 - Entrar na **matrícula** do mesmo

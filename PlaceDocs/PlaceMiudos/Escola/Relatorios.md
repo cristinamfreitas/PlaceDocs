@@ -20,11 +20,11 @@ Lista de alunos com renovação válida no ano corrente.
 
 4- **Renovações dealhado**
 
-Lista de alunos com dados de intificação do aluno e do encarregado do educação que foram colocados na escola. 
+Lista de alunos com dados de identificação do aluno e do encarregado do educação que foram colocados na escola. 
 
 5- **Inquerito dos alunos** 
 
-No separador *inqueritos aos alunos*, ao clicar consegue ter a preceçao de como está a decorrer o preenchimento dos mesmos por parte dos professores. Informa a tuma, o número de alunos e quantos inquerito já foram ou não preenchidos, dando uma percentagem final. 
+No separador *inqueritos aos alunos*, ao clicar consegue ter a preceção de como está a decorrer o preenchimento dos mesmos por parte dos professores. Informa a tuma, o número de alunos e quantos inquerito já foram ou não preenchidos, dando uma percentagem final. 
 
 
 ![Inqueritos](../../images/PlaceMiudos/Alunos/inqueritos.PNG)

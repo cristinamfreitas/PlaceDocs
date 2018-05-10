@@ -40,6 +40,8 @@ Neste separador iremos abordar três temas fundamentais:
 
   - Inscrições
 
+  - Renovações
+
   - Turmas
 
   - Transferências

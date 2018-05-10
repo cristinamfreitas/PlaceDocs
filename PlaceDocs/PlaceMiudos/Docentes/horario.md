@@ -16,7 +16,7 @@
 
 É importante que as escolas atribuam um horário a todos os docentes a lecionar na escola para que possa haver uma melhor gestão escolar.
 
-Antes de atribuir um horário ao docente, deve primeiramente, atribuir e defenir bem os cargos e atividades do docente. Para tal Deve aceder ao nome do docente e clicar em **Cargos e Atividades**
+Antes de atribuir um horário ao docente, deve primeiramente, atribuir e defenir bem os cargos e atividades do docente. Para tal, deve aceder ao nome do docente e clicar em **Cargos e Atividades**
 
 ![Cargos](../../images/PlaceMiudos/Alunos/cargos.PNG)
 

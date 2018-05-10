@@ -11,16 +11,16 @@ Todos os docentes deve fazer o sumário, preenchendo os dados presentes.
 ![Sumariosmiudos](../../images/PlaceMiudos/Alunos/sumariosmiudos.PNG)
 
 
-No ato do sumário, o processor faz a marcação de presenças dos alunos, Clicando no item que diz **Presenças**
+No ato do sumário, o professor faz a marcação de presenças dos alunos, clicando no item que diz **Presenças**
 
 ![Presencas](../../images/PlaceMiudos/Alunos/presencas.PNG)
 
 
-No caso de substituições o sumário é feito feito pelo docente que deu a aula, mencionando especificamente que foi uma substituição e o horário efetivo.
+No caso de substituições, o sumário é feito pelo docente que deu a aula, mencionando especificamente que foi uma substituição e o horário efetivo.
 
 
 > [!WARNING]  
-> Recomendamos que todos os docentes guardem os PDF dos seus súmários mensalmente.
+> Recomendamos que todos os docentes guardem os PDF dos seus súmários  semanal ou mensalmente.
 
 
 

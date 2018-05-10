@@ -13,7 +13,7 @@ A Plataforma tem como objetivo facilitar a gestão escolar e promover a partilha
 
 ## Objetivo da Aplicação 
 
-A equipa Place sentiu necessidade de criar uma aplicação prática, de forma a melhorar a resposta dada às escolas e seus utilizadores. Esta aplicação funcionará como um sistema de FAQ ( Perguntas Mais Frequentes), com o intuito de ajudar toda a comunidade educativa. Acreditamos que esta ferramenta seja uma grande ajuda pois, desse modo, uma parte substancial dos utilizadores conseguam encontrar as respostas para as suas perguntas sem a necessidade de contatar a plataforma. 
+A equipa Place sentiu necessidade de criar uma aplicação prática, de forma a melhorar a resposta dada às escolas e seus utilizadores. Esta aplicação funcionará como um sistema de FAQ ( Perguntas Mais Frequentes), com o intuito de ajudar toda a comunidade educativa. Acreditamos que esta ferramenta seja uma grande ajuda pois, desse modo, uma parte substancial dos utilizadores conseguem encontrar as respostas para as suas perguntas sem a necessidade de contatar a plataforma. 
  
 Importa salientar que esta aplicação estará dividida em duas partes, nomeadamente:
 

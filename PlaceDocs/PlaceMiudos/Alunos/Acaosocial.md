@@ -51,6 +51,6 @@ Tabela
 | **Avisadas**    | São faltas avisadas com antecedência| marcar até às 16:30 do dia anterior |Será descontada na mensalidade no mês seguinte
 | **Não avisadas**     | São faltas que não foram avisadas previamente | ---- |Esc. 1 paga o valor da refeição. Outros escalões não têm retorno do valor pago.
 | **Imprevistas**   |       Faltas avisadas com pouca antecedência     |  das 16:30 do dia anterior até ao meio dia do próprio dia |   Valor será descontado no mês seguinte.|
-| **Não previstas**  | É marcado quando o aluno não costuma comere nesse dia almoça. Ou quando o aluno avisa que vai faltar e no dia está presente e almoça.       |  ----  |O valor da refeiçao é cobrado no mês seguinte. 
+| **Não previstas**  | É marcado quando o aluno não costuma comer e nesse dia almoça. Ou quando o aluno avisa que vai faltar e no dia está presente e almoça.       |  ----  |O valor da refeiçao é cobrado no mês seguinte. 
 
 > É importante manter as faltas e presenças atualizadas para que o processamento dos pagamentos seja feito corretamente. 

@@ -1,6 +1,6 @@
 ﻿# Sumários
 
-É importância que todas as aulas lecionadas tenham registo do sumário. O sumário é gerado no prórpio dia e ao ser preenchido marca presença automática ao professor.  
+É importante que todas as aulas lecionadas tenham registo do sumário. O sumário é gerado no prórpio dia e ao ser preenchido, marca presença automática ao professor.  
 
 Relembramos que os sumários devem ser preenchidos pelo docente responsável da disciplina ou módulo, na plataforma place, dentro do prazo estabelecido pela **Escola**.
 

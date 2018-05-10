@@ -5,6 +5,7 @@ As inscrições para novas crianças devem ser solicitadas à Divisão de Inform
 - Nome completo
 - Data de Nascimento
 - Nº de identificação (Cartão de cidadão) e Nº de controlo
+- Data de início de frequência
 
 > [!WARNING]  
 > Ter a atenção as inscrições solicitadas com **possiveis datas de nascimento** e com **números de identificação dos pais**. Devem evitar estas situações, uma vez que quando têm os dados corretos da criança e pedem nova inscrição, esta fica **duplicada** no sistema.
@@ -24,3 +25,5 @@ As inscrições nas escolas públicas são efetuadas no seguinte período:
 
 > [!WARNING]  
 > A escolha é livre, sendo a colocação apenas limitada pela capacidade da escola desejada.
+
+
