@@ -14,7 +14,6 @@ Neste acesso, terão a possibilidade de consultar os dados escolares dos seus ed
 
 - E outras situações que demonstrem ser igualmente improtantes.
 
-
 ![Renovacao](../../images/Place21/Alunos/renovacao.PNG)
 
 
