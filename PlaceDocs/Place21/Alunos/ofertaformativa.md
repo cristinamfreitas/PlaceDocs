@@ -5,7 +5,7 @@ Para o ano 2018/2019, à semelhança dos anos anteriores, a plataforma Place dis
 Poderá consultar a oferta formativa apresentada no link a baixo:
 
 
-   [Oferta Formativa 2018](https://ofertaformativa2018.firebaseapp.com/)
+   [Oferta Formativa 2018](http://place.madeira.gov.pt/ofertaformativa/)
 
 
 > [!NOTE]  
