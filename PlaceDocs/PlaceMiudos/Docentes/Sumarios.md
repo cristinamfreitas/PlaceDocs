@@ -6,7 +6,7 @@ Relembramos que os sumários devem ser preenchidos pelo docente responsável pel
 
 Caso o prazo não seja respeitado, o sumário é fechado e só a direção da escola, após pedido do docente responsável, poderá abrir novamente o respetivo sumario.
 
-Todos os docentes deve fazer o sumário, preenchendo os dados presentes. 
+Todos os docentes deve fazer o sumário, preenchendo os dados presentes.             
 
 ![Sumariosmiudos](../../images/PlaceMiudos/Alunos/sumariosmiudos.PNG)
 
