@@ -98,10 +98,10 @@ alt="Crazy frog!!" width="480" height="360" border="10" /></a>
 
 
 
- ![Logopm](../images/global/logopm.png)
+ ![Logopm](images/global/logopm.png)
 <!--Olá novamente-->
 
-![Logop21](../images/global/logop21.png)
+![Logop21](images/global/logop21.png)
 
 <dl>
   <dt>Definition list</dt>

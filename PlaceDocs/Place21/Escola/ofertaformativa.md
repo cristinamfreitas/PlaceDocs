@@ -26,6 +26,13 @@ Os Cursos copiados devem ser editados:
 
 ## Cursos 
 
+> [!IMPORTANT]  
+> No ano letivo 2018/2019, inicia-se os **novos currículos dos cursos gerais de 2º e 3º ciclos e secundário**.
+> 
+> Assim, devem ser adicionados para esse ano letivo, **nos 2º e 3º ciclos, o tipo de curso "Curso Geral (5908/2017)"**, e para o **secundário, o tipo de curso "Científico-Humanístico (N)"**.
+> 
+> A nomenclatura será posteriormente alterada em função da designação definitiva de forma automática.
+
 Para que as escolas possam preencher a oferta formativa corretamente deve clicar no separador **Cursos**.
 
 ![Cursos](../../images/Place21/Alunos/cursos.PNG)
