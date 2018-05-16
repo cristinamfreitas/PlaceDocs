@@ -9,7 +9,7 @@ Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cad
 Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
 
 > [!WARNING]  
-> Na criação da Oferta Formtiva, as escolas devem ter especial aos **novos cursos** de início de ciclo, nomeadamente: 5º, 7º e 10º ano de escolaridade. Devem criar novos crusos com o diploma em vigor (como podemos exemplificar no caso do 5º ano com o diploma 5908/2017)
+> Na criação da Oferta Formtiva, as escolas devem ter especial aos **novos cursos** de início de ciclo, nomeadamente: 5º, 7º e 10º ano de escolaridade. Devem criar novos crusos com o diploma em vigor (como podemos exemplificar no caso do 5º ano com o diploma (5908/2017)
 
 ![Diploma](../../images/Place21/Alunos/Diploma.PNG)
 
@@ -29,7 +29,7 @@ Os Cursos copiados devem ser editados:
 > [!IMPORTANT]  
 > No ano letivo 2018/2019, inicia-se os **novos currículos dos cursos gerais de 2º e 3º ciclos e secundário**.
 > 
-> Assim, devem ser adicionados para esse ano letivo, **nos 2º e 3º ciclos, o tipo de curso "Curso Geral (5908/2017)"**, e para o **secundário, o tipo de curso "Científico-Humanístico (N)"**.
+> Assim, devem ser adicionados para esse ano letivo, **nos 2º (só 5º ano) e 3º ciclos (só 7º ano), o tipo de curso "Curso Geral (5908/2017)"**, e para o **secundário, o tipo de curso "Científico-Humanístico (N) (apenas 10º ano)"**.
 > 
 > A nomenclatura será posteriormente alterada em função da designação definitiva de forma automática.
 
