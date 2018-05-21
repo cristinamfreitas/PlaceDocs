@@ -4,7 +4,7 @@
 
 A Plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretedem oferecer, os ciclos que pretende exercer, o número estimado de alunos matrículados e o número de turmas que pretende ter em cada tipo de curso. 
 
-Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de Maio** de 2018 respeitosamente.  
+Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de Maio** de 2018.  
 
 Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
 
@@ -69,7 +69,7 @@ Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação d
 
 
 > [!NOTE]  
-> Se o curso é completamente igual a um já existente, pode **copiar** o curso do ano anterior, mas só mesmo se o curso for todo igual (nome, dicicplinas/módulo e carga horária).
+> Se o curso é completamente igual a um já existente, pode **copiar** o curso do ano anterior, mas só mesmo se o curso for todo igual (nome, disciplinas/módulo e carga horária).
 
 Para poder finalizar este processo com sucesso é importante inserir as respetivas estimativas do **número de alunos e turmas** por cada tipo de curso. Os cursos só ficarão **validados** no PLACE depois de inserir esta estimativa.   
 
