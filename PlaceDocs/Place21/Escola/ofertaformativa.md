@@ -13,23 +13,31 @@ Cada escola deve introduzir os cursos (novos e os de continuidade), previamente 
 
 ## Cursos 
 
-O despacho **5908/2017** autoriza a experiência piloto do **Projeto de Autonomia e Flexibilidade Curricular (PAFC)** a decorrer no ano letivo 2017/2018. No entanto, preve-se que haja continuidade do projeto para o ano seguinte, nomedadamente 2018/2019, mas ainda **não** **foi aprovado**. 
+Ensino Básico e Secundário
 
-![Diploma](../../images/Place21/Alunos/Diploma.PNG)
+O despacho 5908/2017 criou a experiência piloto do Projeto de Autonomia e Flexibilidade Curricular (PAFC) a decorrer no ano letivo 2017/2018. 
 
+Preve-se, para o próximo ano letivo, 2018/2019, a entrada em vigor de um novo diploma de alteração do currículo do Ensino Básico e Secundário que incorpora o PACF. Este projeto de diploma tem como objetivo dar autonomia as escolas para uma maior flexibilidade no currículo.
+ 
+Neste enquadramento:
 
-Este projeto tem como objetivo dar autonomia as escolas para uma maior flexibilidade no currículo. As escolas poderão escolher a percentagem da gestão flexível do currículo que querem para as suas turmas (0% respeitem só o currículo ou 25% têm horas para gerir de forma flexível) e podem fazê-lo de diferente forma para as diversas turmas dos anos iniciais. 
+As 10 escolas que iniciaram o PAFC poderão, em 2018/2019, dar continuidade ao mesmo (no 2º, 6º e 8º anos de escolaridade);
 
+As restantes escolas aplicarão as alterações no currículo (novas matrizes) que forem aprovadas e escolherão a forma de organização da gestão flexível do currículo para as suas turmas, nos anos iniciais de curso e ciclo:
 
-Caso seja aprovado, existirão alterações no currículo que vão iniciar-se obrigatoriamente nos **anos iniciais de ciclo**:
-- 1º ano 
+- 1º ano
+
 - 5º ano
+
 - 7º ano
+
 - 10º ano
-- 1º ano dos cursos profissionais
+
+- 1º ano dos cursos profissionais, artísticos especializados e CEFs
 
 > [!NOTE]  
-> Nos restantes anos de escolaridade o currículo anterior continua em vigor. As escolas que já tenham iniciado os novos cursos em 2017/2018 devem dar continuidade.
+> Nos restantes anos de escolaridade o currículo anterior continua em vigor.
+
 
 > [!IMPORTANT]  
 > A nomenclatura será posteriormente alterada em função da designação definitiva de forma automática.
