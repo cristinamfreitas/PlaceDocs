@@ -8,29 +8,29 @@ Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cad
 
 Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
 
-> [!WARNING]  
-> Na criação da Oferta Formtiva, as escolas devem ter especial aos **novos cursos** de início de ciclo, nomeadamente: 5º, 7º e 10º ano de escolaridade. Devem criar novos crusos com o diploma em vigor (como podemos exemplificar no caso do 5º ano com o diploma (5908/2017)
-
-![Diploma](../../images/Place21/Alunos/Diploma.PNG)
-
-> [!NOTE]  
-> As escolas que já tenham iniciado os novos cursos em 2017/2018 devem dar continuidade para o 6 ano de escolaridade. No caso das escolas que só farão para ano letivo 2018/2019 devem criar os novos cursos somente para o 5º, 7º e 10º ano. 
-
-
-Os Cursos copiados devem ser editados:
-
-- Remover as disciplinas que não vão lecionar 
-- Acrescentar as disciplinas que vão ministrar 
-- Designar a componente, nome e ano 
 
 
 ## Cursos 
 
+O despacho **5908/2017** autoriza a experiência piloto do **Projeto de Autonomia e Flexibilidade Curricular (PAFC)** a decorrer no ano letivo 2017/2018. No entanto, preve-se que haja continuidade do projeto para o ano seguinte, nomedadamente 2018/2019, mas ainda **não** **foi aprovado**. 
+
+![Diploma](../../images/Place21/Alunos/Diploma.PNG)
+
+
+Este projeto tem como objetivo dar autonomia as escolas para uma maior flexibilidade no currículo. As escolas poderão escolher a percentagem da gestão flexível do currículo que querem para as suas turmas (0% respeitem só o currículo ou 25% têm horas para gerir de forma flexível) e podem fazê-lo de diferente forma para as diversas turmas dos anos iniciais. 
+
+
+Caso seja aprovado, existirão alterações no currículo que vão iniciar-se obrigatoriamente nos **anos iniciais de ciclo**:
+- 1º ano 
+- 5º ano
+- 7º ano
+- 10º ano
+- 1º ano dos cursos profissionais
+
+> [!NOTE]  
+> Nos restantes anos de escolaridade o currículo anterior continua em vigor. As escolas que já tenham iniciado os novos cursos em 2017/2018 devem dar continuidade.
+
 > [!IMPORTANT]  
-> No ano letivo 2018/2019, inicia-se os **novos currículos dos cursos gerais de 2º e 3º ciclos e secundário**.
-> 
-> Assim, devem ser adicionados para esse ano letivo, **nos 2º (só 5º ano) e 3º ciclos (só 7º ano), o tipo de curso "Curso Geral (5908/2017)"**, e para o **secundário, o tipo de curso "Científico-Humanístico (N) (apenas 10º ano)"**.
-> 
 > A nomenclatura será posteriormente alterada em função da designação definitiva de forma automática.
 
 Para que as escolas possam preencher a oferta formativa corretamente deve clicar no separador **Cursos**.
@@ -56,20 +56,22 @@ Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação d
 
 
 > [!WARNING]  
-> Sempre que haja um **curso novo**, as escolas devem *Criar*  um novo curso e não editar o curso antigo. Ou seja, mesmo que o curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente** deve criar um novo curso.
+> Sempre que haja um **curso novo**, as escolas devem *Criar*  um novo curso e **não editar** o curso antigo. Ou seja, mesmo que o curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente** deve criar um novo curso.
 
 
 > [!NOTE]  
 > Se o curso é completamente igual a um já existente, pode **copiar** o curso do ano anterior, mas só mesmo se o curso for todo igual (nome, dicicplinas/módulo e carga horária).
 
-Para poder finalizar este processo com sucesso é importante inserir as respetivas estimativas do **número de alunos e turmas** por cada tipo de curso. Os cursos só ficarão validados no PLACE depois de inserir esta estimativa.   
+Para poder finalizar este processo com sucesso é importante inserir as respetivas estimativas do **número de alunos e turmas** por cada tipo de curso. Os cursos só ficarão **validados** no PLACE depois de inserir esta estimativa.   
 
 ![Alunoseturmas](../../images/Place21/Alunos/alunoseturmas.PNG)
 
 
-Neste separador é importante ter em atenção a criação dos cursos: devem apenas intoduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a lei que esteja em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
+Neste separador é importante ter em atenção a criação dos cursos: devem apenas intoduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a legislaçao em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
  
 
+Os Cursos copiados devem ser **editados**:
 
-
-
+- Remover as disciplinas que não vão lecionar 
+- Acrescentar as disciplinas que vão ministrar 
+- Designar a componente, nome e ano 
