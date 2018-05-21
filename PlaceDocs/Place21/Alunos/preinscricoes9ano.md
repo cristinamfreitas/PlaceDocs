@@ -23,7 +23,7 @@ Cada aluno deve preencher os seguintes dados:
 
 - Freguesia do trabalho do encarregado de educação
 
-- As escolas que gostava de freuentar no 10º ano por ordem de interesse
+- As escolas que gostava de frequentar no 10º ano por ordem de interesse
 
 Caso tenha algum irmão já a frequentar essa escola (a que pretende ir) deve mencionar isso no campo indicado.
 

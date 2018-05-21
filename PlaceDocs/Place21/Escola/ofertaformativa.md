@@ -8,7 +8,8 @@ Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cad
 
 Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
 
-
+> [!IMPORTANT]  
+> A Plataforma Place apenas garante o registo das possibilidades disponíveis. Não as aprova nem assegura inserções não autorizadas. 
 
 ## Cursos 
 
