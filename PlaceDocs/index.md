@@ -36,6 +36,9 @@ Esta divisão justifica-se pelo fato de haver conteúdos distintos em amplas as 
 > [!IMPORTANT]  
 >  Qualquer tratamento de dados pessoais requer o consentimento do titular. Os consentimentos já existentes, mas que não cumpram com regulamento (Regulamento Geral da Proteção de Dados Pessoais nº 2016/679 do Parlamento Europeu e do Conselho de 27 de abril de 2016), deve fazer novo consentimento.
 
+[Regulamento Geral da Proteção de Dados Pessoais](https://www.cncs.gov.pt/content/files/regulamento_ue_2016-679_-_protecao_de_dados.pdf) 
+
+
 
 
 
