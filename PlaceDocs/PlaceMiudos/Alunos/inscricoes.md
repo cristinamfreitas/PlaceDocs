@@ -15,13 +15,14 @@ Para fazer inscrições de crianças com idades inferiores a cinco meses de idad
 
 
 
-As inscrições nas escolas públicas são efetuadas no seguinte período:
+As inscrições (pedido de matrícula) para o ano letivo 2018/2019 nas escolas públicas são efetuadas no seguinte período:
 
-|Inscrições  |   Início de Julho   |
+|Inscrições  |    Julho   |
 |:--------------- |:----------------:|
-|  **Lista provisória**  | A definir data |
-|    **Reclamações**    | 5 dias úteis |
-|   **Lista definitiva**  |   A definir data |
+|   **Inscrições**  |  2 a 6 de julho |
+|  **Lista provisória**  | 11 de julho |
+|    **Reclamações**    | 12 a 18 de julho |
+|   **Listas finais**  |   19 de julho |
 
 > [!WARNING]  
 > A escolha é livre, sendo a colocação apenas limitada pela capacidade da escola desejada.

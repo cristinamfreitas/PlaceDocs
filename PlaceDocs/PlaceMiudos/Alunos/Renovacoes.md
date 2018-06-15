@@ -2,6 +2,8 @@
 
 As renovações são feitas após as avaliações, num período previamente estabelecido e informado aos pais ou encarregados de educação. Em geral, são solicitadas no mês de junho.
 
+Para o ano letivo 2018/2019 as renovações devem ser feitas até o dia 29 de junho.
+
 Estas requerem um conjunto de documentos obrigatórios para que sejam atribuidos os apoios sociais. A partir do PLACE obtêm-se os boletins pré-preenchidos para verificação e assinatura dos pais ou encarregados de educação. 
 
 As renovações devem ser feitas nas escolas mais próximas do local de morada, independentemente do desejo de frequentar outra escola, o que será possível, através da indicação de tal intenção no boletim de matrícula. 
