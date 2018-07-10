@@ -12,6 +12,7 @@
 #[Alunos](Alunos/index.md)
 ##[Pré-Inscrições (9º ano)](alunos/preinscricoes9ano.md)
 ##[Oferta Formativa](alunos/ofertaformativa.md)
+##[Pré-Matrículas Online 10º Ano](alunos/prematriculasonline10ano.md)
 ##[Matrícula](alunos/Matricula.md)
 ##[Renovações](alunos/Renovacoes.md)
 ##[Mudança de curso](alunos/Mudancacurso.md)

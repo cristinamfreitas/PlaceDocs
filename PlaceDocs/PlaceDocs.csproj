@@ -49,6 +49,7 @@
     <None Include="demo.md" />
     <None Include="packages.config" />
     <None Include="Place21\Alunos\faltas.md" />
+    <None Include="Place21\Alunos\prematriculasonline10ano.md" />
     <None Include="Place21\Alunos\index.md" />
     <None Include="Place21\Alunos\matricula.md" />
     <None Include="Place21\Alunos\mudancacurso.md" />
