@@ -12,6 +12,8 @@ A aplicação web está disponível através de [matrículas online](https://pla
 
 Para poder realizar a pré- matrícula deverá seguir os seguintes passos: 
 
+## Criar Conta nas aplicações
+
 **Registo no PLACE Aluno**:
 
 **1º passo:** Aceder à aplicação ou no Android Pesquisar na PlayStore por ‘PLACE Aluno’.
@@ -41,4 +43,27 @@ Se a *conta for criada com sucesso*, será visível no ecrã o botão do PLACE A
 
 > [!IMPORTANT]  
 > Depois da criação da conta, acederá automaticamente à aplicação PLACE Aluno. Futuramente, para aceder, deverá introduzir o nome de utilizador ou email preenchidos na criação de conta, junto da palavra-chave que digitou.
+
+### Pré-Matrícula 
+
+Depois de criar conta com sucesso, tem todas as condições para realizar a pré-matrícula com sucesso. 
+
+Para poder realizar a Pré-Matrícula deverá preencher os seguintes campos: 
+
+- Escolher a **Escola**
+
+- Confirmar os **dados pessoais** do aluno 
+
+- Preencher os dados do **encarregado de educação**
+
+- Selecionar o **Curso**
+
+- Selecionar as **disciplinas**
+
+- Atribuir o **ASE** e Transporte (Caso necessite)
+
+- **Concluir** o processo de Pré-Matrícula
+
+> [!IMPORTANT]  
+> Depois de conluir o processo da Pré-Matrícula, deve descarregar e impirmir o **comprovativo**. Depois de impresso, o **encarregado de educação deve assinar** o documento. Posteriormente, o aluno deve levar o comprovativo assinado para a escola no dia das matrículas (dia marcado pela Escola responsável) 
 
