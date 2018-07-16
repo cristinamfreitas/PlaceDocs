@@ -10,7 +10,7 @@
 ##[Sumários](Docentes/Sumarios.md)
 ##[Faltas](Docentes/Faltas.md)
 #[Alunos](Alunos/index.md)
-##[Apoio aos Manuais (CMFunchal 2º Ciclo)](alunos/manuais.md)
+##[Apoio aos Manuais Escolares (2º Ciclo)](alunos/manuais.md)
 ##[Pré-Inscrições (9º ano)](alunos/preinscricoes9ano.md)
 ##[Oferta Formativa](alunos/ofertaformativa.md)
 ##[Pré-Matrículas Online 10º Ano](alunos/prematriculasonline10ano.md)
