@@ -20,22 +20,23 @@ Para poder realizar a pré- matrícula deverá seguir os seguintes passos:
 
 **2º passo**: Criar conta
 
+![Login](../../images/Place21/Alunos/Login.PNG)
+
 Na primeira vez que aceder terá de criar uma conta que permanecerá durante os próximos anos em que frequentar escolas da RAM. Para tal, escolha a opção ‘Criar conta’ no fundo da página.
 
-**3º passo**: Escolher serviço
 
-Escolher a opção PLACE Aluno
+**3º passo** – Validar token
 
-**4º passo** – Validar token
+![Token](../../images/Place21/Alunos/Token.PNG)
 
 Deve inserir o token disponível no seu registo biográfico no local apropriado
 
-**5º passo**: – Dados da conta
+**4º passo**: – Dados da conta
 
 Se o token foi validado com sucesso, o seu nome aparece pré-preenchido. Deve inserir o nome de utilizador que pretende, o seu email e a palavra-chave de acesso.
 
 
-**6º passo** – Confirmação
+**5º passo** – Submeter
 
 Se a *conta for criada com sucesso*, será visível no ecrã o botão do PLACE Aluno a verde, pelo que deverá carregar no botão ‘Continuar’.
 
@@ -52,15 +53,26 @@ Para poder realizar a Pré-Matrícula deverá preencher os seguintes campos:
 
 - Escolher a **Escola**
 
+![Escola](../../images/Place21/Alunos/escola.PNG)
+
+
 - Confirmar os **dados pessoais** do aluno 
 
 - Preencher os dados do **encarregado de educação**
 
 - Selecionar o **Curso**
 
+![Cursossss](../../images/Place21/Alunos/cursossss.PNG)
+
+
 - Selecionar as **disciplinas**
 
+![Disciplinas](../../images/Place21/Alunos/disciplinas.PNG)
+
 - Atribuir o **ASE** e Transporte (Caso necessite)
+
+![A S E](../../images/Place21/Alunos/ASE.PNG)
+
 
 - **Concluir** o processo de Pré-Matrícula
 
