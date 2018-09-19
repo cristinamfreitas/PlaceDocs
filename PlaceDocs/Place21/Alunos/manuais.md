@@ -31,3 +31,9 @@ No que respeita ao 2º ciclo, os documentos necessários para submeter a candida
 
 - **Atestado de Residência** emitida da junta de freguesia do local de morada. 
 
+> [!IMPORTANT]  
+> Os alunos que realizaram novas inscrições (Alunos que vão ingressar no 1º ano) terão acesso à declaração posteriormente. Deve aguardar a validação das inscrições.
+
+
+> [!IMPORTANT]  
+> Os alunos que realizaram inscrições nos estabelecimentos públicos, devem solicitar a declaração de apoio aos manuais escolares a escola onde ficarem a inscrição e não onde foram colocados.

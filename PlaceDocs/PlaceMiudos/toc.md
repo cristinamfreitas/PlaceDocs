@@ -13,4 +13,6 @@
 ##[Transferências](alunos/transferencias.md)
 ##[Turmas](alunos/Turmas.md)
 ##[Ação Social](alunos/acaosocial.md)
+##[Manuais Escolares](alunos/manuaisescolares.md)
+
 
