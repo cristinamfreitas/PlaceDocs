@@ -82,7 +82,7 @@ Fazemos o mesmo procedimento que os titulares, apenas mudamos as disciplinas:
 
 ![Extras](../../images/Place21/Alunos/extras.PNG)
 
-Famos este procedimento para as disciplinas de:
+Fazemos este procedimento para as disciplinas de:
 
 - Educação Física
 - Educação Artística
