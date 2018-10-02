@@ -183,7 +183,7 @@ Exemplo de Horário da Titular do 1º Ciclo
                                       **Tipos de Cargos**  
 
 
-| Tipos de **Cargos** existentes          | Designações (evetuais)  |
+| Tipos de **Cargos** existentes          | Designações (eventuais)  |
 | --------------- |:----------------:|
 | Acerto de Horário    | Amamentação, Sindicatos, Antiguidade, Intervalos... |
 | AEC´s      | Biblioteca, Ed. Física, Inglês, Música, TIC, Estudo...         |
