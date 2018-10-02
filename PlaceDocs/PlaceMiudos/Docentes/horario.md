@@ -201,6 +201,6 @@ Exemplo de Horário da Titular do 1º Ciclo
 | Vigilância     | Supervisão no Recreio, no refeitótio...    |
 
 > [!IMPORTANT]  
-> As designações apresentadas anteriormente são apenas algumas ideias existentes. Não deverão ser únicas e exclusicas (não existem só estas). Cada escola pode criar a designação que achar mais adequada ao tipo de cargo que deseja anexar.
+> As designações apresentadas anteriormente são apenas algumas ideias existentes. Não deverão ser únicas e exclusivas (não existem só estas). Cada escola pode criar a designação que achar mais adequada ao tipo de cargo que deseja anexar.
 
 
