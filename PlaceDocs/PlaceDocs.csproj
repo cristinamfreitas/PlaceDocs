@@ -138,6 +138,7 @@
     <Content Include="images\Place21\Alunos\alunoseturmas.PNG" />
     <Content Include="images\Place21\Alunos\ASE.PNG" />
     <Content Include="images\Place21\Alunos\asemiudos.PNG" />
+    <Content Include="images\Place21\Alunos\atualizar.PNG" />
     <Content Include="images\Place21\Alunos\cargos.PNG" />
     <Content Include="images\Place21\Alunos\CaTivi.PNG" />
     <Content Include="images\Place21\Alunos\cientificohumanistico.PNG" />
@@ -171,6 +172,7 @@
     <Content Include="images\Place21\Alunos\importacaonotas.PNG" />
     <Content Include="images\Place21\Alunos\importacaorb.PNG" />
     <Content Include="images\Place21\Alunos\interrupcoes.PNG" />
+    <Content Include="images\Place21\Alunos\lecionacao.PNG" />
     <Content Include="images\Place21\Alunos\ler.PNG" />
     <Content Include="images\Place21\Alunos\link.PNG" />
     <Content Include="images\Place21\Alunos\Login.PNG" />
