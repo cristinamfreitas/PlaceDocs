@@ -1,6 +1,6 @@
 ﻿# Horários
 
-*"Tempo letivo"- Carga horária semanal organizada em períodos de 45/50 minutos*... *Em situações justificadas, a escola poderá utilizar uma diferente organização da carga horária semanal dos alunos, devendo contudo respetitar os totais, assim como o máximo global indicado para cada ciclo e ano de escolaridade."*
+*"Tempo letivo"- Carga horária semanal organizada em períodos de 45/50 minutos*... *Em situações justificadas, a escola poderá utilizar uma diferente organização da carga horária semanal dos alunos, devendo contudo respeitar os totais, assim como o máximo global indicado para cada ciclo e ano de escolaridade."*
 
 [Portaria 265/2016](http://joram.madeira.gov.pt/joram/1serie/Ano%20de%202016/ISerie-121-2016-07-13sup.pdf)
 
@@ -10,7 +10,7 @@
  
 | Componente         | Carga Horária           | Total  |
 |:--------------- |:----------------:| :-----:|
-| **Compenente Letiva**     | 25 horas | 25 horas |
+| **Componente Letiva**     | 25 horas | 25 horas |
 |**Componente não Letiva**     | 4 horas        |  4 horas|
 
 
@@ -26,7 +26,7 @@ A escola deve manter os horários sempre atualizados, podendo editá-los sempre 
 
 **Ano 2018/2019**
 
-A relação a costrução dos horários dos docentes devem seguir as seguintes intruções:
+A relação a construção dos horários dos docentes devem seguir as seguintes intruções:
 
 Tendo em conta que todos os alunos estão matriculados e as turmas estão construidas deve:
 
@@ -79,7 +79,7 @@ b) Abre os tipos de Cargos (Turmas e Disciplinas)
 
 ![Creche](../../images/Place21/Alunos/creche.PNG)
 
-Em cada uma das valências deve preencher corretamete:
+Em cada uma das valências deve preencher corretamente:
 
 - Tipo de componente
 - Disciplina
@@ -155,7 +155,7 @@ Depois de ter os cargos todos criados, deve aceder ao separador dos Docentes e a
 Os horários das turmas são criados nas **respetivas turmas e não nos docentes**
 
 1. Deve aceder a **turma**
-2. clinar no separador **horário**
+2. clicar no separador **horário**
 3. Editar
 4. Criar Blocos:
 
@@ -198,7 +198,7 @@ Exemplo de Horário da Titular do 1º Ciclo
 | Tempo Letivo (Fora da Escola)    | Direção Artística e Multimédia        |
 | Tempo não letivo (Fora da Escola)    | Preparação de Atividades, Reuniões...       |
 | Titulares de Turma    |  |
-| Vigilância     | Supervisão no Recreio, no refeitótio...    |
+| Vigilância     | Supervisão no Recreio, no refeitório...    |
 
 > [!IMPORTANT]  
 > As designações apresentadas anteriormente são apenas algumas ideias existentes. Não deverão ser únicas e exclusivas (não existem só estas). Cada escola pode criar a designação que achar mais adequada ao tipo de cargo que deseja anexar.
