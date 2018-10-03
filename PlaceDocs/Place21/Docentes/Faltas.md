@@ -7,7 +7,7 @@ Sempre que um professor estiver ausente de uma aula deve ser registada falta por
 ![Consulta](../../images/Place21/Alunos/consulta.PNG)
 
 
-Deve procuar por datas, ou seja, pelo dia que pretende e aparece todos os docentes que lecionam nesse dia. Para os docentes ausentes, apenas marca **Falta injustificada**
+Deve procurar por datas, ou seja, pelo dia que pretende e aparece todos os docentes que lecionam nesse dia. Para os docentes ausentes, apenas marca **Falta injustificada**
 
 
 ![Faltasdocentes](../../images/Place21/Alunos/faltasdocentes.PNG)

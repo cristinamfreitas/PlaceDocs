@@ -1,6 +1,6 @@
 ﻿# Mudança de Curso
 
-Após a matrícula dos alunos, no início do ano ou mesmo no decorrer do mesmo, se o aluno mostrar interesse em mudar de curso é possovel. 
+Após a matrícula dos alunos, no início do ano ou mesmo no decorrer do mesmo, se o aluno mostrar interesse em mudar de curso é possível. 
 
 Para tal, a escola deve seguir os seguintes passos: 
 

@@ -30,7 +30,7 @@ Caso tenha algum irmão já a frequentar essa escola (a que pretende ir) deve me
 
 ![Preferencias](../../images/Place21/Alunos/preferencias.PNG)
 
-Esta Pré - Inscrição tem como objetivo permitir e estabelecer uma perceção das preferências dos alunos para o ensino secundário e procurar, dentro dos limites, dar resposta de forma a equilibrar a procura e a oferta no ensino na região.
+Esta Pré-Inscrição tem como objetivo permitir e estabelecer uma perceção das preferências dos alunos para o ensino secundário e procurar, dentro dos limites, dar resposta de forma a equilibrar a procura e a oferta no ensino na região.
 
  
 

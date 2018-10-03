@@ -20,7 +20,7 @@ Neste separador iremos abordar três temas fundamentais:
 
   - Recursos da Escola
 
-  - Interrupçoes Letivas
+  - Interrupções Letivas
 
   - Relatórios
 

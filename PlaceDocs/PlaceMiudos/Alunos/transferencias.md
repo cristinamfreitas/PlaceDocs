@@ -1,9 +1,9 @@
 ﻿# Transferências
 
-As transferências de alunos entre escolas na RAM é possivel. O pedido de transferência deve ser solicitado à Divisão de Informação Educativa e deve fornecer os seguintes dados:
+As transferências de alunos entre escolas na RAM é possível. O pedido de transferência deve ser solicitado à Divisão de Informação Educativa e deve fornecer os seguintes dados:
 
 - Nome completo da criança
-- Nº de identificação (cc, passaporte ou documento provisório)
+- Nº de identificação ( CC, passaporte ou documento provisório)
 - Data de nascimento
 - último dia de frequência na escola anterior
 - Nome da Escola a ser transferida
@@ -24,11 +24,11 @@ Quando a transferência é feita entre duas escolas públicas, a informação de
 Caso o aluno tenha algum valor por pagar ou para receber, feito a transferência, as contam mantem-se na escola de transferência.
 
 >[!WARNING]  
-> A escola que recebe a criança deve fazer ***Retificar*** mês atual, para que as contas sejam atualizadas. 
+> A escola que recebe a criança deve clicar em ***retificar mês atual***, para que as contas sejam atualizadas. 
 
 
 
-## Entre Público - Privado
+## Entre Público-Privado
 
 Se a transferência da criança for de uma escola privada para uma escola pública, os pagamentos não passam de uma escola para outra. As contas devem ser liquidadas em cada escola separadamente. 
 

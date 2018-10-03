@@ -13,7 +13,7 @@ Poderá consultar a oferta formativa apresentada no link a baixo:
 
 A página apresentada está dividida por tipos de curso, concelhos e por ciclos (2º, 3º ciclo e secundário) 
 
-A título de exemplo, se selecionar Cursos Cietífico- Humanistico no concelho do Funchal:
+A título de exemplo, se selecionar Cursos Científico-Humanístico no concelho do Funchal:
 
 ![Tipodecurso](../../images/Place21/Alunos/tipodecurso.PNG)
 
@@ -26,9 +26,9 @@ Paralelamente apresentamos o ano em que o curso é lecionado, o número de vagas
 
 ![Cientificohumanistico](../../images/Place21/Alunos/cientificohumanistico.PNG)
 
-Este leque de informaçoes permite analisar e escolher ao pormenor o percurso que pretende seguir, de modo a ir ao encontro dos interesses pessoais e profissionais de cada aluno.
+Este leque de informações permite analisar e escolher ao pormenor o percurso que pretende seguir, de modo a ir ao encontro dos interesses pessoais e profissionais de cada aluno.
 
-Pode, igualmente escolher um curso (Ex: Ciências e tecnologias) em diferentes escolas, clicando na estrelinha que aparece a frente dos cursos (A estrela fica preenchida ao ser selecionada).
+Pode igualmente escolher um curso (Ex: Ciências e tecnologias) em diferentes escolas, clicando na estrelinha que aparece a frente dos cursos (A estrela fica preenchida ao ser selecionada).
 
 ![Compararcursos](../../images/Place21/Alunos/compararcursos.PNG)
 
@@ -37,7 +37,7 @@ Depois de selecionar o curso e as escolas que demonstra interesse, clique no bot
 
 ![Clicarcomparar](../../images/Place21/Alunos/Clicarcomparar.PNG)
 
-Ao comparar, apresentamos as diciplinas dadas nos mesmos cursos em diferentes escolas. Isto permite escolher o curso, tendo em conta as disciplinas que vão lecionar dentro de cada compenente.  
+Ao comparar, apresentamos as disciplinas dadas nos mesmos cursos em diferentes escolas. Isto permite escolher o curso, tendo em conta as disciplinas que vão lecionar dentro de cada componente.  
 
 ![Comparacao](../../images/Place21/Alunos/comparacao.PNG)
 

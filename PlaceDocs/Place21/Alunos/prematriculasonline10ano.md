@@ -10,7 +10,7 @@ Todos os alunos que transitam para o secundário e vão matricular-se numa escol
 
 A aplicação web está disponível através de [matrículas online](https://place.madeira.gov.pt/placealuno) e na aplicação android na PlayStore , pesquisando por “Place Aluno”. 
 
-Para poder realizar a pré- matrícula deverá seguir os seguintes passos: 
+Para poder realizar a pré-matrícula deverá seguir os seguintes passos: 
 
 ## Criar Conta nas aplicações
 
@@ -77,5 +77,5 @@ Para poder realizar a Pré-Matrícula deverá preencher os seguintes campos:
 - **Concluir** o processo de Pré-Matrícula
 
 > [!IMPORTANT]  
-> Depois de conluir o processo da Pré-Matrícula, deve descarregar e impirmir o **comprovativo**. Depois de impresso, o **encarregado de educação deve assinar** o documento. Posteriormente, o aluno deve levar o comprovativo assinado para a escola no dia das matrículas (dia marcado pela Escola responsável) 
+> Depois de concluir o processo da Pré-Matrícula, deve descarregar e imprimir o **comprovativo**. Depois de impresso, o **encarregado de educação deve assinar** o documento. Posteriormente, o aluno deve levar o comprovativo assinado para a escola no dia das matrículas (dia marcado pela Escola responsável) 
 

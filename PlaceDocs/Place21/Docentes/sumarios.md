@@ -1,10 +1,10 @@
 ﻿# Sumários
 
-É importante que todas as aulas lecionadas tenham registo do sumário. O sumário é gerado no prórpio dia e ao ser preenchido, marca presença automática ao professor.  
+É importante que todas as aulas lecionadas tenham registo do sumário. O sumário é gerado no próprio dia e ao ser preenchido, marca presença automática ao professor.  
 
 Relembramos que os sumários devem ser preenchidos pelo docente responsável da disciplina ou módulo, na plataforma place, dentro do prazo estabelecido pela **Escola**.
 
-Caso o prazo não seja respeitado, o sumário é fechado e só a direção da escola, após pedido do docente responsável, podera abri-lo novamente.
+Caso o prazo não seja respeitado, o sumário é fechado e só a direção da escola, após pedido do docente responsável, poderá abri-lo novamente.
 
 ![Sumarios](../../images/Place21/Alunos/sumarios.PNG)
 
@@ -15,4 +15,4 @@ No caso de substituições, o sumário é feito pelo docente que deu a aula, mas
 
 
 > [!WARNING]  
-> Recomendamos que todos os docentes guardem os PDF dos seus súmários mensalmente.
+> Recomendamos que todos os docentes guardem os PDF dos seus sumários mensalmente.

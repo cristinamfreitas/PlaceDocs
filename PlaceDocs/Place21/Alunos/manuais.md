@@ -12,11 +12,11 @@ Para poder exportar o documento deve:
 
 - Separador ASE
 
-- Clicar em **Declaração Manuais Municipio**
+- Clicar em **Declaração Manuais Município**
 
 ![Declaracao](../../images/Place21/Alunos/declaracao.PNG)
 
-A escola deve usar esta declaração, pois a mesma defende as Escolas certificando apenas, o que é possivel, face à documentação apresentada pelos encarregados de educação, traduzindo a situação atual e não outra futura que venha a ser demosntrada mais tarde. 
+A escola deve usar esta declaração, pois a mesma defende as Escolas certificando apenas, o que é possível, face à documentação apresentada pelos encarregados de educação, traduzindo a situação atual e não outra futura que venha a ser demonstrada mais tarde. 
 
 
 Este ano, as candidaturas poderão ser realizadas através de uma [Plataforma online](http://manuaisescolares.cm-funchal.pt/), dispensando a necessidade de deslocação à Loja do Munícipe do Funchal.  

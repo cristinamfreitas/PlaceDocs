@@ -4,10 +4,10 @@ Na página principal da escola, no lado direito tem um botão menu.
 
 ![Menu](../../images/Place21/Alunos/menu.PNG)
 
-Ao clicar neste funcionalidade, aparece várias funcionalidades relacionadas com a escola, nomeadamente: 
+Ao clicar nesta funcionalidade, aparece várias funcionalidades relacionadas com a escola, nomeadamente: 
 
 - Dados da Escola
-- Recusos Humanos
+- Recursos Humanos
 - Recursos Materiais
 - Hardware
 - Quadros interativos
@@ -21,4 +21,4 @@ Dando especial atenção aos **dados da escola**, este separador deve conter inf
 
 
 > [!WARNING]  
-> Sempre que houver alteração do contato, email, Diretor ou de chefe dos serviços administrativos deve editar este separador e guardar os novos dados. 
+> Sempre que houver alteração do contato, email, diretor ou de chefe dos serviços administrativos deve editar este separador e guardar os novos dados. 

@@ -1,12 +1,12 @@
 ﻿# Horários
 
-*"Tempo letivo"- Carga horária semanal organizada em períodos de 45/50 minutos*... *Em situações justificadas, a escola poderá utilizar uma diferente organização da carga horária semanal dos alunos, devendo contudo respeitar os totais, assim como o máximo global indicado para cada ciclo e ano de escolaridade."*
+*"Tempo letivo"- Carga horária semanal organizada em períodos de 45/50 minutos*... *Em situações justificadas, a escola poderá utilizar uma diferente organização da carga horária semanal dos alunos devendo, contudo, respeitar os totais, assim como o máximo global indicado para cada ciclo e ano de escolaridade."*
 
 [Portaria 265/2016](http://joram.madeira.gov.pt/joram/1serie/Ano%20de%202016/ISerie-121-2016-07-13sup.pdf)
 
 
 
-**Creche, Pré - Escolar e 1º Ciclo*
+**Creche, Pré-Escolar e 1º Ciclo*
  
 | Componente         | Carga Horária           | Total  |
 |:--------------- |:----------------:| :-----:|
@@ -19,16 +19,16 @@
 
 
 > [!WARNING]  
-> Na criação de horários, deve tomar atenção às datas de início e de fim. Caso o professor seja substituido, por alguma razão, deve terminar o horário do docente e criar um novo para o docente que irá substituir. 
+> Na criação de horários, deve tomar atenção às datas de início e de fim. Caso o professor seja substituído, por alguma razão, deve terminar o horário do docente e criar um novo para o docente que irá substituir. 
 
 
 A escola deve manter os horários sempre atualizados, podendo editá-los sempre que for necessário. 
 
 **Ano 2018/2019**
 
-A relação a construção dos horários dos docentes devem seguir as seguintes intruções:
+Para a construção dos horários dos docentes devem seguir as seguintes instruções:
 
-Tendo em conta que todos os alunos estão matriculados e as turmas estão construidas deve:
+Tendo em conta que todos os alunos estão matriculados e as turmas estão construídas deve:
 
 1. Validar as interrupções Letivas 
 
@@ -103,7 +103,7 @@ Fazemos este procedimento para as disciplinas de:
 - Educação Moral e Religiosa
 
 
-No caso dos docentes que auxiliam na disciplina de **TIC**, Devem fazer o mesmo procedimento, escolhendo:
+No caso dos docentes que auxiliam na disciplina de **TIC**, devem fazer o mesmo procedimento, escolhendo:
 
 - **Componente Curricular Transversal**
 - Disciplina
@@ -117,7 +117,7 @@ No caso dos docentes que auxiliam na disciplina de **TIC**, Devem fazer o mesmo 
 
 Os cargos inserem-se nas áreas dadas que **não façam parte do Currículo**
 
-Em relaçao a este assunto houve uma pequena alteração:
+Em relação a este assunto houve uma pequena alteração:
 
 1. Cabe a Escola **criar os seus cargos**. Para tal, deverá aceder ao separador Docentes e ir ao lado direito ao Menu. Clicar nas Definições de Cargos. 
 
@@ -125,7 +125,7 @@ Em relaçao a este assunto houve uma pequena alteração:
 
 
 ![Cargos](../../images/Place21/Alunos/cargos.PNG)
-a) Descrever o Cargo ( Dá o nome que achar melhor, de acordo com o interesse da escola)
+a) Descrever o Cargo (dá o nome que achar melhor, de acordo com o interesse da escola)
 b) Escolher o tipo de cargo
 c) Gravar
 
@@ -135,7 +135,7 @@ c) Gravar
 
 No caso do Ensino Especial, ou melhor, da **Educação para Inclusão** devem igualmente criar cargos com esta designação, salientando a **valência** caso seja necessário.
 
-- Educação para a Inclusão pré- escolar
+- Educação para a Inclusão pré-escolar
 - Educação para a Inclusão 1º Ciclo
 
 
@@ -144,7 +144,7 @@ Depois de ter os cargos todos criados, deve aceder ao separador dos Docentes e a
 
 ![Ca Tivi](../../images/Place21/Alunos/CaTivi.PNG)
 
-- Mencionar o que cada docente leciona. É importante preencher o tipo de cargo para que as horas sejam defenidas, preenchidas e entendidas corretamente. 
+- Mencionar o que cada docente leciona. É importante preencher o tipo de cargo para que as horas sejam definidas, preenchidas e entendidas corretamente. 
 
 ![Lecionacao](../../images/Place21/Alunos/lecionacao.PNG)
 
@@ -155,7 +155,7 @@ Depois de ter os cargos todos criados, deve aceder ao separador dos Docentes e a
 Os horários das turmas são criados nas **respetivas turmas e não nos docentes**
 
 1. Deve aceder a **turma**
-2. clicar no separador **horário**
+2. Clicar no separador **horário**
 3. Editar
 4. Criar Blocos:
 
@@ -163,7 +163,7 @@ Os horários das turmas são criados nas **respetivas turmas e não nos docentes
 - Horário da aula
 - Componente
 - Disciplina
-- sala
+- Sala
 - Docente
 - Gravar
 
@@ -171,7 +171,7 @@ Os horários das turmas são criados nas **respetivas turmas e não nos docentes
 
 
 > [!NOTE]  
-> Sempre que criarem novos blocos com data de início anterior a data de criação, devem atualizar o bloco desde o início para que o sumários sejam gerados. Este procedimento é feito no **horário da turma** e não no do professor.
+> Sempre que criarem novos blocos com data de início anterior a data de criação, devem atualizar o bloco desde o início para que os sumários sejam gerados. Este procedimento é feito no **horário da turma** e não no do professor.
 
 ![Atualizar](../../images/Place21/Alunos/atualizar.PNG)
 
@@ -183,7 +183,7 @@ Exemplo de Horário da Titular do 1º Ciclo
                                       **Tipos de Cargos**  
 
 
-| Tipos de **Cargos** existentes          | Designações (evetuais)  |
+| Tipos de **Cargos** existentes          | Designações (eventuais)  |
 | --------------- |:----------------:|
 | Acerto de Horário    | Amamentação, Sindicatos, Antiguidade, Intervalos... |
 | AEC´s      | Biblioteca, Ed. Física, Inglês, Música, TIC, Estudo...         |
@@ -192,7 +192,7 @@ Exemplo de Horário da Titular do 1º Ciclo
 | Cargos de Gestão Intermédia      | Coordenador Regional...         |
 | Clubes   | Todo o tipo de clubes criados pela escola     |
 | OTL´s    | OTL |
-| Outras atividades em trabalho na Escola     | Coordenador de TIC, Tratamento documental, Pesquisa e Organização de Materia...         |
+| Outras atividades em trabalho na Escola     | Coordenador de TIC, Tratamento documental, Pesquisa e Organização de Matéria...         |
 | Projetos    | Todos os projetos criados pela escola     |
 | Substituições    |  |
 | Tempo Letivo (Fora da Escola)    | Direção Artística e Multimédia        |

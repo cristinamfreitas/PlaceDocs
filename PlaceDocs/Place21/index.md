@@ -21,9 +21,9 @@ Neste separador iremos abordar quatro temas fundamentais:
 
   - Exportações da Dados
 
-  - Importanção de Dados
+  - Importação de Dados
 
-  - Interrupçoes Letivas
+  - Interrupções Letivas
 
 - **Docentes**
 
@@ -35,7 +35,7 @@ Neste separador iremos abordar quatro temas fundamentais:
 
 - **Alunos**
 
-  - Pré- Inscrições (9º ano)
+  - Pré-Inscrições (9º ano)
 
   - Oferta Formativa
   

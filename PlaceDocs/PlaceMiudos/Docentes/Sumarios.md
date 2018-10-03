@@ -20,7 +20,7 @@ No caso de substituições, o sumário é feito pelo docente que deu a aula, men
 
 
 > [!WARNING]  
-> Recomendamos que todos os docentes guardem os PDF dos seus súmários  semanal ou mensalmente.
+> Recomendamos que todos os docentes guardem os PDF dos seus sumários  semanal ou mensalmente.
 
 
 

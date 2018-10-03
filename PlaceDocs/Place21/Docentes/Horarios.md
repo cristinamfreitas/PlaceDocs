@@ -4,7 +4,7 @@
 A componente letiva semanal dos professores organiza-se em blocos.
 
 
-Estes blocos destinam-se ao trabalho dos docentes com os alunos nas áreas curriculares disciplinares e não disciplinares, às aulas de apoio educativo, bem como as horas a distribuir aos professores para o desempenho dos cargos de articulação curricular e de direcção de turma.
+Estes blocos destinam-se ao trabalho dos docentes com os alunos nas áreas curriculares disciplinares e não disciplinares, às aulas de apoio educativo, bem como as horas a distribuir aos professores para o desempenho dos cargos de articulação curricular e de direção de turma.
 
 
 

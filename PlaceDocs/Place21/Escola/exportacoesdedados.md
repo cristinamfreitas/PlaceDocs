@@ -10,7 +10,7 @@ Neste, poderá exportar dados sobre:
 - Professores
 - ENEB/ENES/PAEB
 
-Relativamente ao **Alunos** poderá ter ao seu dispor uma panópola de informaçoes nomeadamente: 
+Relativamente ao **Alunos** poderá ter ao seu dispor uma panóplia de informações nomeadamente: 
 
 ![Exportacoesalunos](../../images/Place21/Alunos/Exportacoesalunos.PNG)
 

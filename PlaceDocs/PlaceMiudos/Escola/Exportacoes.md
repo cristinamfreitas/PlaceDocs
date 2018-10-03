@@ -2,7 +2,7 @@
 
 A funcionalidade **exportações** existente no Menu na página principal da plataforma place serve para explorar alguns dados sobre os alunos.
 
-Permite a manuntenção de importação e exportação de dados dos alunos com ajuda do Programa PFEB
+Permite a manutenção de importação e exportação de dados dos alunos com ajuda do Programa PFEB
 
 
 ![Exportacoes](../../images/PlaceMiudos/Alunos/exportacoes.PNG)

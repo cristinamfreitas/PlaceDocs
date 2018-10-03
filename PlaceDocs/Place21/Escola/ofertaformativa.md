@@ -2,9 +2,9 @@
 
 ![Ofertaformativa](../../images/Place21/Alunos/ofertaformativa.PNG)
 
-A Plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretedem oferecer, os ciclos que pretende exercer, o número estimado de alunos matrículados e o número de turmas que pretende ter em cada tipo de curso. 
+A Plataforma Place disponibiliza, todos os anos letivos, um separador designado **Oferta Educativa Formativa**, o qual visa estimar e apresentar os tipos de cursos que as escolas pretendem oferecer, os ciclos que pretende exercer, o número estimado de alunos matriculados e o número de turmas que pretende ter em cada tipo de curso. 
 
-Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de Maio** de 2018.  
+Para o ano letivo 2018/2019, a inserção da oferta formativa e educativa de cada escola deverá decorrer entre **14 e 18 de maio** de 2018.  
 
 Cada escola deve introduzir os cursos (novos e os de continuidade), previamente *autorizados pela DRE*. A introdução de cursos não validados pela DRE é da **exclusiva responsabilidade da escola**.
 
@@ -17,7 +17,7 @@ Ensino Básico e Secundário
 
 O despacho 5908/2017 criou a experiência piloto do Projeto de Autonomia e Flexibilidade Curricular (PAFC) a decorrer no ano letivo 2017/2018. 
 
-Preve-se, para o próximo ano letivo, 2018/2019, a entrada em vigor de um novo diploma de alteração do currículo do Ensino Básico e Secundário que incorpora o PACF. Este projeto de diploma tem como objetivo dar autonomia as escolas para uma maior flexibilidade no currículo.
+Prevê-se, para o próximo ano letivo, 2018/2019, a entrada em vigor de um novo diploma de alteração do currículo do Ensino Básico e Secundário que incorpora o PACF. Este projeto de diploma tem como objetivo dar autonomia as escolas para uma maior flexibilidade no currículo.
  
 Neste enquadramento:
 
@@ -55,7 +55,7 @@ Deve, primeiramente, clicar em **Copiar cursos do ano anterior**.
 > Devem somente copiar os cursos que pretende oferecer para o ano letivo posterior (2018/2019)
 
 
-Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação da DRE. Deve preencher a informação solicitada para acriação do mesmo, nomeadamente:
+Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação da DRE. Deve preencher a informação solicitada para a criação do mesmo, nomeadamente:
 
 - Ciclo
 
@@ -65,7 +65,7 @@ Deve clicar **Novo Curso** quando o curso ainda não existe e teve aprovação d
 
 
 > [!WARNING]  
-> Sempre que haja um **curso novo**, as escolas devem *Criar*  um novo curso e **não editar** o curso antigo. Ou seja, mesmo que o curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente** deve criar um novo curso.
+> Sempre que haja um **curso novo**, as escolas devem *criar*  um novo curso e **não editar** o curso antigo. Ou seja, mesmo que o curso tenha o mesmo nome, mas que haja apenas um **disciplina/módulo diferente**  deve criar um novo curso.
 
 
 > [!NOTE]  
@@ -76,7 +76,7 @@ Para poder finalizar este processo com sucesso é importante inserir as respetiv
 ![Alunoseturmas](../../images/Place21/Alunos/alunoseturmas.PNG)
 
 
-Neste separador é importante ter em atenção a criação dos cursos: devem apenas intoduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a legislaçao em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
+Neste separador é importante ter em atenção a criação dos cursos: devem apenas introduzir as disciplinas que **fazem parte do currículo** dos alunos em cada ano letivo, respeitando a legislação em vigor. As disciplinas de **apoio** devem apenas constar no horário do **professor** e não no dos alunos. 
  
 
 Os Cursos copiados devem ser **editados**:
