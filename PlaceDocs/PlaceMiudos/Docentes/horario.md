@@ -30,21 +30,21 @@ Para a construção dos horários dos docentes devem seguir as seguintes instru�
 
 Tendo em conta que todos os alunos estão matriculados e as turmas estão construídas deve:
 
-1. Validar as interrupções Letivas 
+1. Validar as interrupções letivas 
 
 ![Interrupcoes](../../images/Place21/Alunos/interrupcoes.PNG)
 
-2. Verificar as Salas das atividades ou aulas. 
+2. Verificar as salas das atividades ou de aulas. 
 
 ![Salas](../../images/Place21/Alunos/salas.PNG)
 
 3. Assegurar que todos os **docentes** estão inseridos
 
-4. Verificar os dados profissionais de todos os docentes (Editar a ficha pessoal). Preencher corretamente todos os itens. 
+4. Verificar os dados profissionais de todos os docentes (editar a ficha pessoal). Preencher corretamente todos os itens. 
 
 ![Dadosprofissionais](../../images/Place21/Alunos/dadosprofissionais.PNG)
 
-Depois de estar criado e editado a ficha de cada docente começamos por organizar:
+Depois de estar criada e preenchida a ficha de cada docente comece por organizar:
 
                                       **A Curricular**
 Todas as disciplinas que **fazem parte do Currículo**:
@@ -63,7 +63,7 @@ Todas as disciplinas que **fazem parte do Currículo**:
 
 **Titulares e Educadores**
 
-a) Selecionar o Docente e clicar em cima do nome 
+a) Selecionar o docente clicando em cima do nome 
 
 b) Abre os tipos de Cargos (Turmas e Disciplinas)
 
@@ -107,8 +107,8 @@ No caso dos docentes que auxiliam na disciplina de **TIC**, devem fazer o mesmo 
 
 - **Componente Curricular Transversal**
 - Disciplina
-- turma 
-- Data de Início 
+- Turma 
+- Data de início 
 
 
 ![Tic](../../images/Place21/Alunos/tic.PNG)
@@ -157,7 +157,7 @@ Os horários das turmas são criados nas **respetivas turmas e não nos docentes
 1. Deve aceder a **turma**
 2. Clicar no separador **horário**
 3. Editar
-4. Criar Blocos:
+4. Criar blocos:
 
 - Escolher o dia da semana
 - Horário da aula
@@ -195,8 +195,8 @@ Exemplo de Horário da Titular do 1º Ciclo
 | Outras atividades em trabalho na Escola     | Coordenador de TIC, Tratamento documental, Pesquisa e Organização de Matéria...         |
 | Projetos    | Todos os projetos criados pela escola     |
 | Substituições    |  |
-| Tempo Letivo (Fora da Escola)    | Direção Artística e Multimédia        |
-| Tempo não letivo (Fora da Escola)    | Preparação de Atividades, Reuniões...       |
+| Tempo Letivo (Fora da escola)    | Direção Artística e Multimédia        |
+| Tempo não letivo (Fora da escola)    | Preparação de Atividades, Reuniões...       |
 | Titulares de Turma    |  |
 | Vigilância     | Supervisão no Recreio, no refeitório...    |
 
