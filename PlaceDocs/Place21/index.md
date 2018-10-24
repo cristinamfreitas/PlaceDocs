@@ -49,6 +49,8 @@ Neste separador iremos abordar quatro temas fundamentais:
 
 - **Encarregados de Educação**
 
+  - Place Aluno
+
 
 
 Em cada um dos itens, vamos especificá-los de acordo com as necessidades mais sentidas por parte dos utilizadores. 

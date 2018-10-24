@@ -1,7 +1,5 @@
-﻿# Acesso ao Place
-
-## Place Aluno
-
+﻿
+# Place Aluno
 
 Para o ano letivo 2018/2019, a Plataforma Place disponibilizou uma nova aplicação, designada como **Place Aluno** para que o **encarregado de educação**  tenha acesso às informações educativas dos seus educandos.
 
