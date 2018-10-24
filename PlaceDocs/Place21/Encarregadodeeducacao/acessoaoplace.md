@@ -1,28 +1,35 @@
 ﻿# Acesso ao Place
 
-Para as renovações 2018/2019, estamos a solicitar através do boletim de renovação, a todos encarregados de educação que estejam interessados em ter acesso a Plataforma Place, que assinalem o seu interesse e registe os dados necessários para permitir o seu acesso. 
-
-Neste acesso, terão a possibilidade de consultar os dados escolares dos seus educandos, nomeadamente:
-
-- Ficha pessoal
-
-- Horários 
-
-- Faltas 
-
-- Eventos
-
-- E outras situações que demonstrem ser igualmente importantes.
-
-![Renovacao](../../images/Place21/Alunos/renovacao.PNG)
+## Place Aluno
 
 
-> [!WARNING]  
-> Este acesso deverá sempre salvaguardar e proteger os dados de todos os alunos. Cada encarregado de educação deve salvaguardar os dados dos seus educandos. 
+Para o ano letivo 2018/2019, a Plataforma Place disponibilizou uma nova aplicação, designada como **Place Aluno** para que o **encarregado de educação**  tenha acesso às informações educativas dos seus educandos.
 
-# Place Aluno
+A aplicação Place Aluno pretende ser uma plataforma de acesso à informação escolar pelos próprios alunos (maiores de 13 anos de idade) e encarregados de educação. Toda a informação é visualizada em tempo real sempre que é atualizada pelas escolas
 
-Para o ano letivo 2018/2019, a Plataforma Place disponibilizou aplicações para que o **encarregado de educação**  tenha acesso às informações educativas dos seus educandos.
+Os **encarregados de educação** terão acesso:
+
+- **Dados pessoais** que a escola que frequentam tem em registo, podendo solicitar celeremente junto do estabelecimento de ensino a sua atualização/correção;
+
+- **Horário**, o qual é sempre atualizado aquando a inserção de alterações pelos estabelecimentos de ensino;
+
+- **Eventos** que são agendados pelos professores do(s) conselho(s) de turma que frequentam, tais como as datas de fichas de avaliação sumativa e formativa, entre outros;
+
+- **Disciplinas** em que se encontram matriculados no presente ano letivo, com indicação das respetivas faltas justificadas e injustificadas, assim como detalhe temporal sobre as mesmas;
+
+- **Avaliação**.
+
+- **Valores a pagar** em creches, PE e 1º ciclo, referentes a alimentação ou mensalidades, junto de informação para a realização do pagamento;
+
+- Possibilidade de avisar antecipadamente as faltas dos seus educandos para efeitos de contabilização da alimentação (disponível apenas para creches, PE e 1º ciclo);
+
+- Justificação de **faltas**, através do envio de digitalização/fotografia da justificação devidamente preenchida, a qual será validada posteriormente pelo diretor de turma.
+
+
+> [!CAUTION]  
+> As funcionalidades enumeradas para os encarregados de educação serão implementadas gradualmente ao longo do presente ano letivo. Contudo, existe a consciência que algumas, tais como a justificação e avisos de faltas, por implicarem a interação de terceiros, irão demorar o seu tempo a se tornarem efetivas.
+> 
+
 
 Para que o acesso seja feito corretamente, **as escolas devem de validar o encarregado de educação**.
 
