@@ -51,7 +51,7 @@ Ao clicar neste item, **vai gerar um código** de acesso, o qual deve fornecer a
 
 
 > [!NOTE]  
-> Os encarregados de educação devem pedir o acesso nos serviços administrativs da escola e atualizar os dados do encarregado de educação nas diferentes escolas onde tenham filhos a frequentar (caso tenham mais que um filho). 
+> Os encarregados de educação devem pedir o acesso nos serviços administrativos da escola e atualizar os dados do encarregado de educação nas diferentes escolas onde tenham filhos a frequentar (caso tenham mais que um filho). 
 
 
 Quando o encarregado de educação tiver em sua posse o código de acesso deve aceder:  
