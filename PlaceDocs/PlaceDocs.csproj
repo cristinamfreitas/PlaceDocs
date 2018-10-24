@@ -61,7 +61,7 @@
     <None Include="Place21\Docentes\Horarios.md" />
     <None Include="Place21\Docentes\index.md" />
     <None Include="Place21\Docentes\sumarios.md" />
-    <None Include="Place21\Encarregadodeeducacao\Acessoaoplace.md" />
+    <None Include="Place21\Encarregadodeeducacao\acessoaoplace.md" />
     <None Include="Place21\Encarregadodeeducacao\index.md" />
     <None Include="Place21\Escola\exportacoesdedados.md" />
     <None Include="Place21\Escola\Importacoesdedados.md" />
