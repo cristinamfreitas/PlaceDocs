@@ -19,7 +19,8 @@
 ##[Mudança de curso](alunos/Mudancacurso.md)
 ##[Faltas](alunos/Faltas.md)
 #[Encarregado de Educação](encarregadodeeducacao/index.md)
-##[Acesso ao place](Encarregadodeeducacao/Acessoaoplace.md)
+##[Acesso ao place](Encarregadodeeducacao/acessoaoplace.md)
+
 
 
 
