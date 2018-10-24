@@ -1,6 +1,6 @@
 ﻿# Acesso ao Place
 
-Para as renovações 2018/2019, estamos a solicitar através do boletim de renovação, a todos os pais ou encarregados de educação que estejam interessados em ter acesso a Plataforma Place, que assinalem o seu interesse e registe os dados necessários para permitir o seu acesso. 
+Para as renovações 2018/2019, estamos a solicitar através do boletim de renovação, a todos encarregados de educação que estejam interessados em ter acesso a Plataforma Place, que assinalem o seu interesse e registe os dados necessários para permitir o seu acesso. 
 
 Neste acesso, terão a possibilidade de consultar os dados escolares dos seus educandos, nomeadamente:
 
@@ -12,7 +12,7 @@ Neste acesso, terão a possibilidade de consultar os dados escolares dos seus ed
 
 - Eventos
 
-- E outras situações que demonstrem ser igualmente improtantes.
+- E outras situações que demonstrem ser igualmente importantes.
 
 ![Renovacao](../../images/Place21/Alunos/renovacao.PNG)
 
@@ -22,7 +22,7 @@ Neste acesso, terão a possibilidade de consultar os dados escolares dos seus ed
 
 # Place Aluno
 
-Para o ano letivo 2018/2019, a Plataforma Place disponibilizou aplicações para que o **encarregado de educação** tenha acesso às informações educativas dos seus educandos.
+Para o ano letivo 2018/2019, a Plataforma Place disponibilizou aplicações para que o **encarregado de educação**  tenha acesso às informações educativas dos seus educandos.
 
 Para que o acesso seja feito corretamente, **as escolas devem de validar o encarregado de educação**.
 
@@ -36,16 +36,17 @@ Para que o acesso seja feito corretamente, **as escolas devem de validar o encar
 
 ![D A R A C E S S O](../../images/Place21/Alunos/DARACESSO.PNG)
 
-Ao clicar neste item, **vai gerar um código** de acesso, o qual deve foenecer a cada ecarregado de educação que solicite. 
+Ao clicar neste item, **vai gerar um código** de acesso, o qual deve fornecer a cada encarregado de educação que solicite. 
 
 ![Codigo](../../images/Place21/Alunos/Codigo.PNG)
 
 > [!IMPORTANT]  
-> Em caso de esquecimento da palavra-passe, pode clicar em **nova palavra-passe**. Caso a pessoa deixe de ser encarregado de educação, deve clicar em **revogar acesso**. A qualquer momento, caso seja necessário e devidamente justificado, pode criar um **novo encarregado de educação**. 
+> Em caso de esquecimento da palavra-passe, pode clicar em **nova palavra-passe**. No caso de haver mudança do encarregado de educação, a escola deve clicar em **revogar acesso** ao anterior encarregado de educação. A qualquer momento, caso seja necessário e devidamente justificado, pode criar um **novo encarregado de educação**. 
+
 
 
 > [!NOTE]  
-> Os encarregados de educação devem pedir o acesso e validade dos dados do encarregad de educação nas diferentes escolas onde tenham filhos a frequentar (caso tenham mais que um filho). 
+> Os encarregados de educação devem pedir o acesso nos serviços administrativs da escola e atualizar os dados do encarregado de educação nas diferentes escolas onde tenham filhos a frequentar (caso tenham mais que um filho). 
 
 
 Quando o encarregado de educação tiver em sua posse o código de acesso deve aceder:  
@@ -76,7 +77,7 @@ Após a criação da conta (apenas uma vez) deve entrar utilizando o utilizador 
 
 ![Entrar](../../images/Place21/Alunos/entrar.PNG)
 
-Quando entra na aplicação consegue visalizar:
+Quando entra na aplicação consegue visualizar:
 
 - Os educandos e as escolas onde estão matriculados. 
 
