@@ -2,7 +2,7 @@
 
 
 
-Segundo a aprovação da Lei n.º 51/2012, onde aprova o Estatuto do Aluno e Ética Escolar, que estabelece os direitos e os deveres do aluno dos ensinos básico e secundário e o compromisso dos **pais ou encarregados de educação** e dos restantes membros da comunidade educativa na sua educação e formação, revogando a Lei n.º 30/2002, de 20 de dezembro.
+Segundo a aprovação do Decreto Legislativo Regional n.º 21/2013/M de 25 de junho, que estabelece os direitos e os deveres do aluno dos ensinos básico e secundário e o compromisso dos **pais ou encarregados de educação** e dos restantes membros da comunidade educativa na sua educação e formação, revogando Decreto Legislativo Regional nº 26/2006/M,de 4 de julho;.
 
 
 
